@@ -112,7 +112,20 @@
 | [T7](./typescript/T7-条件类型与infer.md) | 条件类型与 infer | 🔥🔥 |
 | [T8](./typescript/T8-类型体操实战.md) | 类型体操实战 | 🔥🔥 |
 
-## 板块九:综合与手写题
+## 板块九:工程化
+
+| # | 标题 | 热度 |
+|---|------|------|
+| [E1](./engineering/E1-模块化演进.md) | 模块化演进(CJS/ESM) | 🔥🔥 |
+| [E2](./engineering/E2-Webpack构建流程.md) | Webpack 构建流程 | 🔥🔥🔥 |
+| [E3](./engineering/E3-Loader与Plugin.md) | Loader 与 Plugin | 🔥🔥🔥 |
+| [E4](./engineering/E4-Tree-shaking与代码分割.md) | Tree-shaking 与代码分割 | 🔥🔥🔥 |
+| [E5](./engineering/E5-Vite原理与对比Webpack.md) | Vite 原理与对比 Webpack | 🔥🔥🔥 |
+| [E6](./engineering/E6-Babel原理.md) | Babel 原理 | 🔥🔥 |
+| [E7](./engineering/E7-构建性能优化.md) | 构建性能优化 | 🔥🔥 |
+| [E8](./engineering/E8-包管理与Monorepo.md) | 包管理与 Monorepo | 🔥🔥 |
+
+## 板块十:综合与手写题
 
 | # | 标题 | 热度 |
 |---|------|------|
@@ -132,4 +145,5 @@
 5. **网络与安全**:N1 状态码、N3 HTTPS、N4 缓存、N5 跨域、N6 XSS、N7 CSRF、N8 TCP 握手挥手
 6. **浏览器原理**:B1 进程线程、B2 事件机制、B3 渲染流程、B4 性能优化
 7. **TypeScript**:T2 interface/type、T3 泛型、T5 工具类型、T4 类型守卫
-8. **冲刺**:X1 手写合集、X2 输出题专项(临场高频)
+8. **工程化**:E2 Webpack 流程、E3 Loader/Plugin、E4 Tree-shaking、E5 Vite 原理
+9. **冲刺**:X1 手写合集、X2 输出题专项(临场高频)
