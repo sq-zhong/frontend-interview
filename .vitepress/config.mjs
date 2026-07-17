@@ -112,8 +112,12 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   ignoreDeadLinks: true,
-  head: [['meta', { name: 'theme-color', content: '#3c8772' }]],
+  head: [
+    ['meta', { name: 'theme-color', content: '#3c8772' }],
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/frontend-interview/favicon.svg' }],
+  ],
   themeConfig: {
+    logo: '/favicon.svg',
     outline: { label: '本页目录', level: [2, 3] },
     docFooter: { prev: '上一篇', next: '下一篇' },
     nav,
