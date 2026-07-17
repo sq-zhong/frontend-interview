@@ -6,7 +6,7 @@
 
 热度标记:🔥🔥🔥 必考 / 🔥🔥 高频 / 🔥 加分项
 
-> 全 15 个板块、114 篇。**八股**(知识地基)覆盖 HTML / CSS / JavaScript / React / Vue / 网络与安全 / 浏览器原理 / TypeScript / 工程化 / 算法 / 综合手写;**实战**覆盖场景排错、业务级手写轮子、项目表达 + 系统设计;**时代性**覆盖 AI 时代专题。
+> 全 16 个板块、122 篇。**八股**(知识地基)覆盖 HTML / CSS / JavaScript / React / Vue / 网络与安全 / 浏览器原理 / TypeScript / 工程化 / 算法 / 综合手写;**框架生态**含 Next.js 专题;**实战**覆盖场景排错、业务级手写轮子、项目表达 + 系统设计;**时代性**覆盖 AI 时代专题。
 >
 > 能力金字塔:**八股(通过初筛)→ 场景排错 S + 业务轮子 W(证明能干活)→ 项目表达 + 系统设计 D(决定 offer 层级)→ AI 专题(时代差异化)**。
 
@@ -209,6 +209,21 @@
 | [AI7](./ai/AI7-提示词工程.md) | 提示词工程 | 🔥🔥 |
 | [AI8](./ai/AI8-AI应用架构成本与安全.md) | AI 应用架构、成本与安全 | 🔥🔥🔥 |
 
+## 板块十六:Next.js 专题(React 生态)
+
+> React 全栈/SSR 岗高频。App Router、RSC、缓存体系是 React 板块的生态延伸,建议和 React 板块连着看。
+
+| # | 标题 | 热度 |
+|---|------|------|
+| [NX1](./nextjs/NX1-渲染模式CSR-SSR-SSG-ISR.md) | 渲染模式(CSR/SSR/SSG/ISR) | 🔥🔥🔥 |
+| [NX2](./nextjs/NX2-AppRouter与路由系统.md) | App Router 与路由系统 | 🔥🔥🔥 |
+| [NX3](./nextjs/NX3-React服务端组件RSC.md) | React 服务端组件(RSC) | 🔥🔥🔥 |
+| [NX4](./nextjs/NX4-数据获取与缓存四层.md) | 数据获取与缓存四层 | 🔥🔥🔥 |
+| [NX5](./nextjs/NX5-ServerActions.md) | Server Actions | 🔥🔥 |
+| [NX6](./nextjs/NX6-流式渲染与Suspense.md) | 流式渲染与 Suspense | 🔥🔥 |
+| [NX7](./nextjs/NX7-中间件与路由处理器.md) | 中间件与路由处理器 | 🔥🔥 |
+| [NX8](./nextjs/NX8-性能优化SEO与部署.md) | 性能优化、SEO 与部署 | 🔥🔥 |
+
 ---
 
 ## 建议复习顺序
@@ -219,6 +234,7 @@
 4. **框架专项**(按岗位技术栈选一):
    - React:R4 Hooks、R5 useEffect、R6 Diff/key、R7 性能优化
    - Vue:V1 响应式、V4 computed/watch、V7 nextTick、V8 Composition API/Pinia
+   - Next.js(React 全栈岗):NX1 渲染模式、NX3 RSC、NX4 缓存四层、NX5 Server Actions
 5. **网络与安全**:N1 状态码、N3 HTTPS、N4 缓存、N5 跨域、N6 XSS、N7 CSRF、N8 TCP 握手挥手
 6. **浏览器原理**:B1 进程线程、B2 事件机制、B3 渲染流程、B4 性能优化
 7. **TypeScript**:T2 interface/type、T3 泛型、T5 工具类型、T4 类型守卫
