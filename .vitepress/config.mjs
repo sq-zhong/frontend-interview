@@ -112,6 +112,11 @@ export default defineConfig({
   cleanUrls: true,
   lastUpdated: true,
   ignoreDeadLinks: true,
+  markdown: {
+    // 单个换行也渲染为 <br>,与 GitHub GFM 行为一致
+    // 修复"高频追问"里 Q 与 A 挤在同一行的问题
+    breaks: true,
+  },
   head: [
     ['meta', { name: 'theme-color', content: '#3c8772' }],
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/frontend-interview/favicon.svg' }],
