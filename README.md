@@ -99,7 +99,20 @@
 | [B7](./browser/B7-懒加载与虚拟列表.md) | 懒加载与虚拟列表 | 🔥🔥 |
 | [B8](./browser/B8-存储与Cookie深入.md) | 存储与 Cookie 深入 | 🔥🔥 |
 
-## 板块八:综合与手写题
+## 板块八:TypeScript
+
+| # | 标题 | 热度 |
+|---|------|------|
+| [T1](./typescript/T1-基础类型与类型推断.md) | 基础类型与类型推断 | 🔥🔥 |
+| [T2](./typescript/T2-interface与type区别.md) | interface 与 type 的区别 | 🔥🔥🔥 |
+| [T3](./typescript/T3-泛型.md) | 泛型 | 🔥🔥🔥 |
+| [T4](./typescript/T4-类型收窄与类型守卫.md) | 类型收窄与类型守卫 | 🔥🔥 |
+| [T5](./typescript/T5-常用工具类型.md) | 常用工具类型 | 🔥🔥🔥 |
+| [T6](./typescript/T6-keyof与typeof与映射类型.md) | keyof / typeof / 映射类型 | 🔥🔥 |
+| [T7](./typescript/T7-条件类型与infer.md) | 条件类型与 infer | 🔥🔥 |
+| [T8](./typescript/T8-类型体操实战.md) | 类型体操实战 | 🔥🔥 |
+
+## 板块九:综合与手写题
 
 | # | 标题 | 热度 |
 |---|------|------|
@@ -118,4 +131,5 @@
    - Vue:V1 响应式、V4 computed/watch、V7 nextTick、V8 Composition API/Pinia
 5. **网络与安全**:N1 状态码、N3 HTTPS、N4 缓存、N5 跨域、N6 XSS、N7 CSRF、N8 TCP 握手挥手
 6. **浏览器原理**:B1 进程线程、B2 事件机制、B3 渲染流程、B4 性能优化
-7. **冲刺**:X1 手写合集、X2 输出题专项(临场高频)
+7. **TypeScript**:T2 interface/type、T3 泛型、T5 工具类型、T4 类型守卫
+8. **冲刺**:X1 手写合集、X2 输出题专项(临场高频)
