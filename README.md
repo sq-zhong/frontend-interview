@@ -6,7 +6,7 @@
 
 热度标记:🔥🔥🔥 必考 / 🔥🔥 高频 / 🔥 加分项
 
-> 全 16 个板块、122 篇。**八股**(知识地基)覆盖 HTML / CSS / JavaScript / React / Vue / 网络与安全 / 浏览器原理 / TypeScript / 工程化 / 算法 / 综合手写;**框架生态**含 Next.js 专题;**实战**覆盖场景排错、业务级手写轮子、项目表达 + 系统设计;**时代性**覆盖 AI 时代专题。
+> 全 17 个板块、130 篇。**八股**(知识地基)覆盖 HTML / CSS / JavaScript / React / Vue / 网络与安全 / 浏览器原理 / TypeScript / 工程化 / 算法 / 综合手写;**框架/全栈**含 Next.js、Node.js/BFF 专题;**实战**覆盖场景排错、业务级手写轮子、项目表达 + 系统设计;**时代性**覆盖 AI 时代专题。
 >
 > 能力金字塔:**八股(通过初筛)→ 场景排错 S + 业务轮子 W(证明能干活)→ 项目表达 + 系统设计 D(决定 offer 层级)→ AI 专题(时代差异化)**。
 
@@ -224,6 +224,21 @@
 | [NX7](./nextjs/NX7-中间件与路由处理器.md) | 中间件与路由处理器 | 🔥🔥 |
 | [NX8](./nextjs/NX8-性能优化SEO与部署.md) | 性能优化、SEO 与部署 | 🔥🔥 |
 
+## 板块十七:Node.js / BFF 专题(全栈)
+
+> 全栈/BFF 岗高频。Node 运行时、事件循环、Stream、中间件、鉴权是前端走向全栈的必备。
+
+| # | 标题 | 热度 |
+|---|------|------|
+| [ND1](./nodejs/ND1-Node运行时与事件循环.md) | Node 运行时与事件循环 | 🔥🔥🔥 |
+| [ND2](./nodejs/ND2-模块系统与包管理.md) | 模块系统与包管理 | 🔥🔥 |
+| [ND3](./nodejs/ND3-Stream与Buffer.md) | Stream 与 Buffer | 🔥🔥 |
+| [ND4](./nodejs/ND4-HTTP服务与框架中间件.md) | HTTP 服务与框架中间件 | 🔥🔥🔥 |
+| [ND5](./nodejs/ND5-进程线程与集群.md) | 进程、线程与集群 | 🔥🔥 |
+| [ND6](./nodejs/ND6-异步模式与错误处理.md) | 异步模式与错误处理 | 🔥🔥 |
+| [ND7](./nodejs/ND7-BFF架构与鉴权.md) | BFF 架构与鉴权 | 🔥🔥🔥 |
+| [ND8](./nodejs/ND8-Node性能与安全.md) | Node 性能与安全 | 🔥🔥 |
+
 ---
 
 ## 建议复习顺序
@@ -235,6 +250,7 @@
    - React:R4 Hooks、R5 useEffect、R6 Diff/key、R7 性能优化
    - Vue:V1 响应式、V4 computed/watch、V7 nextTick、V8 Composition API/Pinia
    - Next.js(React 全栈岗):NX1 渲染模式、NX3 RSC、NX4 缓存四层、NX5 Server Actions
+   - Node.js/BFF(全栈岗):ND1 事件循环、ND4 中间件、ND7 BFF/鉴权
 5. **网络与安全**:N1 状态码、N3 HTTPS、N4 缓存、N5 跨域、N6 XSS、N7 CSRF、N8 TCP 握手挥手
 6. **浏览器原理**:B1 进程线程、B2 事件机制、B3 渲染流程、B4 性能优化
 7. **TypeScript**:T2 interface/type、T3 泛型、T5 工具类型、T4 类型守卫
