@@ -47,7 +47,33 @@
 | [J11](./js/J11-垃圾回收与内存泄漏.md) | 垃圾回收与内存泄漏 | 🔥 |
 | [J12](./js/J12-ES6核心特性.md) | ES6 核心特性 | 🔥🔥 |
 
-## 板块四:综合与手写题
+## 板块四:React
+
+| # | 标题 | 热度 |
+|---|------|------|
+| [R1](./react/R1-JSX与虚拟DOM.md) | JSX 与虚拟 DOM | 🔥🔥🔥 |
+| [R2](./react/R2-组件通信方式.md) | 组件通信方式 | 🔥🔥🔥 |
+| [R3](./react/R3-生命周期与函数组件.md) | 生命周期与函数组件 | 🔥🔥 |
+| [R4](./react/R4-Hooks原理与常用Hooks.md) | Hooks 原理与常用 Hooks | 🔥🔥🔥 |
+| [R5](./react/R5-useEffect深入.md) | useEffect 深入 | 🔥🔥🔥 |
+| [R6](./react/R6-Diff算法与key.md) | Diff 算法与 key | 🔥🔥🔥 |
+| [R7](./react/R7-性能优化.md) | 性能优化(memo/useMemo/useCallback) | 🔥🔥🔥 |
+| [R8](./react/R8-状态管理.md) | 状态管理(Context/Redux/Zustand) | 🔥🔥 |
+
+## 板块五:Vue
+
+| # | 标题 | 热度 |
+|---|------|------|
+| [V1](./vue/V1-响应式原理.md) | 响应式原理(Vue2/Vue3) | 🔥🔥🔥 |
+| [V2](./vue/V2-组件通信方式.md) | 组件通信方式 | 🔥🔥🔥 |
+| [V3](./vue/V3-生命周期.md) | 生命周期 | 🔥🔥 |
+| [V4](./vue/V4-computed与watch.md) | computed 与 watch | 🔥🔥🔥 |
+| [V5](./vue/V5-虚拟DOM与Diff.md) | 虚拟 DOM 与 Diff / key | 🔥🔥 |
+| [V6](./vue/V6-常用指令与原理.md) | 常用指令与原理 | 🔥🔥 |
+| [V7](./vue/V7-nextTick与异步更新.md) | nextTick 与异步更新 | 🔥🔥 |
+| [V8](./vue/V8-CompositionAPI与Pinia.md) | Composition API 与 Pinia | 🔥🔥🔥 |
+
+## 板块六:综合与手写题
 
 | # | 标题 | 热度 |
 |---|------|------|
@@ -61,4 +87,7 @@
 1. **JS 优先**:J2 原型链、J3 闭包、J4 this、J6 事件循环、J7 Promise(权重最高)
 2. **CSS 补齐**:C1 盒模型、C3 Flex、C5 BFC
 3. **HTML 收尾**:H2 URL 渲染全链路、H3 渲染原理
-4. **冲刺**:X1 手写合集、X2 输出题专项(临场高频)
+4. **框架专项**(按岗位技术栈选一):
+   - React:R4 Hooks、R5 useEffect、R6 Diff/key、R7 性能优化
+   - Vue:V1 响应式、V4 computed/watch、V7 nextTick、V8 Composition API/Pinia
+5. **冲刺**:X1 手写合集、X2 输出题专项(临场高频)
