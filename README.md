@@ -86,7 +86,20 @@
 | [N7](./network/N7-CSRF跨站请求伪造.md) | CSRF 跨站请求伪造 | 🔥🔥🔥 |
 | [N8](./network/N8-TCP三次握手与四次挥手.md) | TCP 三次握手与四次挥手 | 🔥🔥🔥 |
 
-## 板块七:综合与手写题
+## 板块七:浏览器原理
+
+| # | 标题 | 热度 |
+|---|------|------|
+| [B1](./browser/B1-浏览器进程与线程架构.md) | 浏览器进程与线程架构 | 🔥🔥🔥 |
+| [B2](./browser/B2-事件机制冒泡捕获委托.md) | 事件机制(冒泡/捕获/委托) | 🔥🔥🔥 |
+| [B3](./browser/B3-渲染进程视角的解析与渲染.md) | 渲染进程视角的解析与渲染 | 🔥🔥🔥 |
+| [B4](./browser/B4-前端性能优化全链路.md) | 前端性能优化全链路 | 🔥🔥🔥 |
+| [B5](./browser/B5-WebWorker多线程.md) | Web Worker 多线程 | 🔥🔥 |
+| [B6](./browser/B6-ServiceWorker与PWA.md) | Service Worker 与 PWA | 🔥🔥 |
+| [B7](./browser/B7-懒加载与虚拟列表.md) | 懒加载与虚拟列表 | 🔥🔥 |
+| [B8](./browser/B8-存储与Cookie深入.md) | 存储与 Cookie 深入 | 🔥🔥 |
+
+## 板块八:综合与手写题
 
 | # | 标题 | 热度 |
 |---|------|------|
@@ -104,4 +117,5 @@
    - React:R4 Hooks、R5 useEffect、R6 Diff/key、R7 性能优化
    - Vue:V1 响应式、V4 computed/watch、V7 nextTick、V8 Composition API/Pinia
 5. **网络与安全**:N1 状态码、N3 HTTPS、N4 缓存、N5 跨域、N6 XSS、N7 CSRF、N8 TCP 握手挥手
-6. **冲刺**:X1 手写合集、X2 输出题专项(临场高频)
+6. **浏览器原理**:B1 进程线程、B2 事件机制、B3 渲染流程、B4 性能优化
+7. **冲刺**:X1 手写合集、X2 输出题专项(临场高频)
