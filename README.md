@@ -73,7 +73,20 @@
 | [V7](./vue/V7-nextTick与异步更新.md) | nextTick 与异步更新 | 🔥🔥 |
 | [V8](./vue/V8-CompositionAPI与Pinia.md) | Composition API 与 Pinia | 🔥🔥🔥 |
 
-## 板块六:综合与手写题
+## 板块六:网络与安全
+
+| # | 标题 | 热度 |
+|---|------|------|
+| [N1](./network/N1-HTTP基础与状态码.md) | HTTP 基础与状态码 | 🔥🔥🔥 |
+| [N2](./network/N2-HTTP版本演进.md) | HTTP 版本演进(1.0/1.1/2/3) | 🔥🔥 |
+| [N3](./network/N3-HTTPS与TLS握手.md) | HTTPS 与 TLS 握手 | 🔥🔥🔥 |
+| [N4](./network/N4-HTTP缓存.md) | HTTP 缓存(强缓存与协商缓存) | 🔥🔥🔥 |
+| [N5](./network/N5-跨域CORS与JSONP.md) | 跨域(同源策略/CORS/JSONP) | 🔥🔥🔥 |
+| [N6](./network/N6-XSS跨站脚本攻击.md) | XSS 跨站脚本攻击 | 🔥🔥🔥 |
+| [N7](./network/N7-CSRF跨站请求伪造.md) | CSRF 跨站请求伪造 | 🔥🔥🔥 |
+| [N8](./network/N8-TCP三次握手与四次挥手.md) | TCP 三次握手与四次挥手 | 🔥🔥🔥 |
+
+## 板块七:综合与手写题
 
 | # | 标题 | 热度 |
 |---|------|------|
@@ -90,4 +103,5 @@
 4. **框架专项**(按岗位技术栈选一):
    - React:R4 Hooks、R5 useEffect、R6 Diff/key、R7 性能优化
    - Vue:V1 响应式、V4 computed/watch、V7 nextTick、V8 Composition API/Pinia
-5. **冲刺**:X1 手写合集、X2 输出题专项(临场高频)
+5. **网络与安全**:N1 状态码、N3 HTTPS、N4 缓存、N5 跨域、N6 XSS、N7 CSRF、N8 TCP 握手挥手
+6. **冲刺**:X1 手写合集、X2 输出题专项(临场高频)
